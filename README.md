@@ -115,15 +115,6 @@ By comparing **six regression models**, we investigate how different **feature e
 🔹 Develop **AI-powered dashboards** for real-time visualization.  
 🔹 Expand dataset with **global wind energy data** for broader applicability.  
 
----
-
-## 🚀 Project Repository  
-🔗 *[GitHub Repository Link Here]*  
-
-📢 *This project demonstrates how AI and machine learning improve wind power forecasting while addressing challenges in energy prediction, data quality, and model interpretability.*  
-
----
-
 ## ✍️ Self-Reflection  
 ### 📌 My Role & Contributions  
 ✔️ Developed **machine learning & deep learning models** for wind power forecasting.  
@@ -137,10 +128,3 @@ By comparing **six regression models**, we investigate how different **feature e
 ✅ **Learned hyperparameter tuning techniques for optimal model performance.**  
 ✅ **Developed structured approaches for model evaluation & comparative analysis.**  
 ✅ **Improved understanding of AI applications in energy forecasting.**  
-
----
-
-## 📌 How to Use This Project  
-- Clone this repository:  
-  ```sh
-  git clone [GitHub Repository Link Here]
